@@ -1,0 +1,224 @@
+[
+    {
+        "id":1,
+        "dressingName":"Ranch",
+        "calories":200,
+        "carbs":11,
+        "restaurantNames":["McDonalds"]
+    },
+    {
+        "id":2,
+        "dressingName":"French",
+        "calories":300,
+        "carbs":22,
+        "restaurantNames":["McDonalds"]
+    },
+    {
+        "id":3,
+        "dressingName":"Italian",
+        "calories":50,
+        "carbs":8,
+        "restaurantNames":["McDonalds"]
+    },
+    {
+        "id":4,
+        "dressingName":"Balsamic Vinaigrette",
+        "calories":45,
+        "carbs":5,
+        "restaurantNames":["McDonalds"]
+    },
+    {
+        "id":5,
+        "dressingName":"Vinaigrette",
+        "fullName":"Balsamic Vinaigrette",
+        "calories":45,
+        "carbs":5,
+        "restaurantNames":["McDonalds"]
+    },
+    {
+        "id":6,
+        "dressingName":"Creamy Southwest",
+        "calories":120,
+        "carbs":11,
+        "restaurantNames":["McDonalds"]
+    },
+    {
+        "id":7,
+        "dressingName":"Southwest",
+	"fullName":"Creamy Southwest",
+        "calories":120,
+        "carbs":11,
+        "restaurantNames":["McDonalds"]
+    },
+    {
+        "id":8,
+        "dressingName":"Ranch",
+        "calories":100,
+        "carbs":2,
+        "restaurantNames":["Wendys"]
+    },
+    {
+        "id":9,
+        "dressingName":"Caesar",
+        "calories":80,
+        "carbs":2,
+        "restaurantNames":["Wendys"]
+    },
+    {
+        "id":10,
+        "dressingName":"Caesar",
+        "calories":170,
+        "carbs":2,
+        "restaurantNames":["Panera"]
+    },
+    {
+        "id":11,
+        "dressingName":"Greek",
+        "calories":230,
+        "carbs":1,
+        "restaurantNames":["Panera"]
+    },
+    {
+        "id":12,
+        "dressingName":"Thai Chili Vinaigrette",
+        "fullName":"Low Fat Thai Chili Vinaigrette",
+        "calories":50,
+        "carbs":8,
+        "restaurantNames":["Panera"]
+    },
+    {
+        "id":13,
+        "dressingName":"Balsamic Vinaigrette",
+        "fullName":"Reduced Fat Balsamic Vinaigrette",
+        "calories":130,
+        "carbs":9,
+        "restaurantNames":["Panera"]
+    },
+    {
+        "id":14,
+        "dressingName":"White Balsamic Vinaigrette",
+        "fullName":"White Balsamic Apple Flavored Vinaigrette",
+        "calories":140,
+        "carbs":11,
+        "restaurantNames":["Panera"]
+    },
+    {
+        "id":15,
+        "dressingName":"Ranch",
+        "fullName":"Chile Lime Rojo Ranch",
+        "calories":70,
+        "carbs":3,
+        "restaurantNames":["Panera"]
+    },
+    {
+        "id":16,
+        "dressingName":"Green Goddess",
+        "calories":120,
+        "carbs":3,
+        "restaurantNames":["Panera"]
+    },
+    {
+        "id":17,
+        "dressingName":"Chipotle Southwest",
+        "calories":190,
+        "carbs":2,
+        "restaurantNames":["Subway"]
+    },
+    {
+        "id":18,
+        "dressingName":"Oil and Vinegar",
+        "calories":190,
+        "carbs":0,
+        "restaurantNames":["Subway"]
+    },
+    {
+        "id":19,
+        "dressingName":"Ranch",
+        "calories":220,
+        "carbs":2,
+        "restaurantNames":["Subway"]
+    },
+    {
+        "id":20,
+        "dressingName":"Vinaigrette",
+        "fullName":"Subway Vinaigrette",
+        "calories":110,
+        "carbs":3,
+        "restaurantNames":["Subway"]
+    },
+    {
+        "id":21,
+        "dressingName":"Sweet Onion",
+        "fullName":"Sweet Onion Sauce",
+        "calories":80,
+        "carbs":18,
+        "restaurantNames":["Subway"]
+    },
+    {
+        "id":22,
+    	"dressingName":"Vinaigrette",
+        "fullName":"Zesty Apple Cider Vinaigrette",
+        "calories":230,
+        "carbs":16,
+        "restaurantNames":["Chick-Fil-A"]
+    },
+    {
+        "id":23,
+        "dressingName":"Creamy Salsa",
+        "calories":290,
+        "carbs":3,
+        "restaurantNames":["Chick-Fil-A"]
+    },
+    {
+        "id":24,
+        "dressingName":"Light Italian",
+        "calories":25,
+        "carbs":3,
+        "restaurantNames":["Chick-Fil-A"]
+    },
+    {
+        "id":25,
+        "dressingName":"Balsamic Vinaigrette",
+	"fullName":"Light Balsamic Vinaigrette",
+        "calories":80,
+        "carbs":10,
+        "restaurantNames":["Chick-Fil-A"]
+    },
+    {
+        "id":26,
+        "dressingName":"Honey Mustard",
+        "fullName":"Fat Free Honey Mustard",
+        "calories":90,
+        "carbs":22,
+        "restaurantNames":["Chick-Fil-A"]
+    },
+    {
+        "id":27,
+        "dressingName":"Ranch",
+        "fullName":"Garlic & Herb Ranch",
+        "calories":280,
+        "carbs":2,
+        "restaurantNames":["Chick-Fil-A"]
+    },
+    {
+        "id":28,
+        "dressingName":"Avocado Lime Ranch",
+        "calories":310,
+        "carbs":3,
+        "restaurantNames":["Chick-Fil-A"]
+    },
+    {
+        "id":29,
+        "dressingName":"Chili Lime Vinaigrette",
+        "calories":60,
+        "carbs":9,
+        "restaurantNames":["Chick-Fil-A"]
+    },
+    {
+        "id":30,
+        "dressingName":"Vinaigrette",
+        "calories":220,
+        "carbs":18,
+        "restaurantNames":["Chipotle"]
+    }
+]
